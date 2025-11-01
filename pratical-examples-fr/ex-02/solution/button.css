@@ -1,4 +1,4 @@
-/* éléments de classe button */ {
+ .button {
   background-color: #4CAF50;
   border: none;
   color: white;
@@ -11,12 +11,12 @@
   cursor: pointer;
 }
 
-/* éléments de classe button désactivés */ {
+.button:disabled {
   opacity: 0.6;
   pointer-events: none;
 }
 
-/* élément de classe button sur lequel est la souris */ {
+.button:hover {
   background-color: #40A040;
 }
 

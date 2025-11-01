@@ -1,0 +1,10 @@
+{
+  "descriptions": "Températures moyennes mensuelles (°C) pour certaines villes marocaines",
+  "mois": ["Janvier", "Février", "Mars"],
+  "villes": [
+    {
+      "ville": "Casablanca",
+      "temperatures": [13.9, 14.3, 15.6]
+    }
+  ]
+}
